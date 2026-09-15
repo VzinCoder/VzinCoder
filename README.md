@@ -1,30 +1,14 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/MicaelliMedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Vinicius Pereira Bezerra
+### Olá! Eu sou o Vinicius Pereira Bezerra 👋
 
-### Desenvolvedor Full Stack • Foco em Back-end
+Estudante de **Sistemas para Internet** no IF Sertão-PE — Campus Salgueiro.
 
-🎓 **Sistemas para Internet** — IF Sertão-PE, Campus Salgueiro
+Sou desenvolvedor **Full Stack com foco em Back-end**, com experiência no desenvolvimento de **APIs, sistemas web e aplicações mobile**, explorando diferentes tecnologias e arquiteturas para construir soluções organizadas e eficientes.
 
-Desenvolvedor com foco na construção de **APIs, sistemas web e aplicações escaláveis**, interessado em arquitetura de software, bancos de dados e engenharia de software.
+Me interesso especialmente por **arquitetura de software, bancos de dados, sistemas distribuídos, comunicação em tempo real e performance**.
 
-</div>
-
----
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor **Full Stack com foco em Back-end** e estudante de **Sistemas para Internet no IF Sertão-PE — Campus Salgueiro**.
-
-Tenho experiência no desenvolvimento de aplicações web e APIs, trabalhando com diferentes ecossistemas e buscando sempre entender não apenas **como implementar uma solução**, mas também **como projetá-la de forma organizada, eficiente e sustentável**.
-
-Atualmente, meus principais interesses estão em:
-
-* Desenvolvimento de APIs e sistemas web
-* Arquitetura e engenharia de software
-* Bancos de dados e modelagem
-* Sistemas distribuídos e comunicação em tempo real
-* Performance e escalabilidade
-* Desenvolvimento de aplicações mobile
+<div style="clear: both;"></div>
 
 ---
 
@@ -36,8 +20,7 @@ Atualmente, meus principais interesses estão em:
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nestjs,typescript&perline=7" />
 </p>
 
-**Python** • **Django** • **Django REST Framework** • **FastAPI**
-**Node.js** • **Express** • **NestJS** • **TypeScript**
+**Python** • **Django** • **Django REST Framework** • **FastAPI** • **Node.js** • **Express** • **NestJS** • **TypeScript**
 
 ### 🗄️ Bancos de dados & ORM
 
@@ -45,8 +28,7 @@ Atualmente, meus principais interesses estão em:
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite,redis&perline=6" />
 </p>
 
-**PostgreSQL** • **SQLite** • **Redis**
-**Sequelize** • **Drizzle ORM** • **TypeORM**
+**PostgreSQL** • **SQLite** • **Redis** • **Sequelize** • **Drizzle ORM** • **TypeORM**
 
 ### 🎨 Front-end
 
@@ -71,7 +53,6 @@ Atualmente, meus principais interesses estão em:
 </p>
 
 **Git** • **GitHub** • **Docker** • **Linux** • **VS Code** • **Postman**
-
 
 ## 🎯 Objetivo
 
