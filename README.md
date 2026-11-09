@@ -12,6 +12,35 @@ Me interesso especialmente por **arquitetura de software, bancos de dados, siste
 
 ---
 
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/VzinCoder/patrimony_system_django">📦 CloudAsset — Gestão de Patrimônio</a></h3>
+      <p>SaaS multiusuário para inventário de ativos com RFID: movimentações (entrada, saída, transferência), dashboard de indicadores e assinaturas recorrentes com Stripe e webhooks.</p>
+      <p><b>Django</b> • <b>Stripe</b> • <b>Tailwind CSS</b> • <b>HTMX</b> • <b>Chart.js</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/VzinCoder/event_system_django">🎟️ Event System</a></h3>
+      <p>Plataforma de criação e inscrição em eventos com limite de vagas e proteção contra condições de corrida (<code>select_for_update</code> + transações), validada por teste de concorrência.</p>
+      <p><b>Django</b> • <b>PostgreSQL</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/VzinCoder/mvc-reservation-system">🏨 Sistema de Reservas de Hotel</a></h3>
+      <p>Aplicação MVC para hotel/pousada: quartos, clientes, funcionários e reservas com verificação de disponibilidade, cálculo de diárias e dashboard de faturamento.</p>
+      <p><b>Node.js</b> • <b>Express</b> • <b>EJS</b> • <b>PostgreSQL</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/VzinCoder/nlw-pocket">🎯 in.orbit — Metas Semanais</a></h3>
+      <p>App full stack para acompanhar metas semanais: API REST com resumo da semana por dia e front-end em React com React Query.</p>
+      <p><b>TypeScript</b> • <b>Express</b> • <b>Drizzle ORM</b> • <b>MySQL</b> • <b>React</b></p>
+    </td>
+  </tr>
+</table>
+
 ## 🧰 Tecnologias & Ferramentas
 
 ### ⚙️ Back-end
@@ -53,35 +82,6 @@ Me interesso especialmente por **arquitetura de software, bancos de dados, siste
 </p>
 
 **Git** • **GitHub** • **Docker** • **Linux** • **VS Code** • **Postman**
-
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/VzinCoder/patrimony_system_django">📦 CloudAsset — Gestão de Patrimônio</a></h3>
-      <p>SaaS multiusuário para inventário de ativos com RFID: movimentações (entrada, saída, transferência), dashboard de indicadores e assinaturas recorrentes com Stripe e webhooks.</p>
-      <p><b>Django</b> • <b>Stripe</b> • <b>Tailwind CSS</b> • <b>HTMX</b> • <b>Chart.js</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/VzinCoder/event_system_django">🎟️ Event System</a></h3>
-      <p>Plataforma de criação e inscrição em eventos com limite de vagas e proteção contra condições de corrida (<code>select_for_update</code> + transações), validada por teste de concorrência.</p>
-      <p><b>Django</b> • <b>PostgreSQL</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/VzinCoder/mvc-reservation-system">🏨 Sistema de Reservas de Hotel</a></h3>
-      <p>Aplicação MVC para hotel/pousada: quartos, clientes, funcionários e reservas com verificação de disponibilidade, cálculo de diárias e dashboard de faturamento.</p>
-      <p><b>Node.js</b> • <b>Express</b> • <b>EJS</b> • <b>PostgreSQL</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/VzinCoder/nlw-pocket">🎯 in.orbit — Metas Semanais</a></h3>
-      <p>App full stack para acompanhar metas semanais: API REST com resumo da semana por dia e front-end em React com React Query.</p>
-      <p><b>TypeScript</b> • <b>Express</b> • <b>Drizzle ORM</b> • <b>MySQL</b> • <b>React</b></p>
-    </td>
-  </tr>
-</table>
 
 ## 🎯 Objetivo
 
